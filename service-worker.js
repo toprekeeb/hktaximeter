@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hktaximeter/precache-manifest.095aebf7a5538f4c8d1572c0cf3fef7d.js"
+  "/hktaximeter/precache-manifest.cb130d8dcd4c046e96a4accca74633a9.js"
 );
 
 self.addEventListener('message', (event) => {
