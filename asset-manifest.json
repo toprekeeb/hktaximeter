@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hktaximeter/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hktaximeter/static/js/main.17eedbe7.chunk.js",
+    "main.js.map": "/hktaximeter/static/js/main.17eedbe7.chunk.js.map",
+    "runtime-main.js": "/hktaximeter/static/js/runtime-main.f61d0c90.js",
+    "runtime-main.js.map": "/hktaximeter/static/js/runtime-main.f61d0c90.js.map",
+    "static/js/2.2f5ef2c2.chunk.js": "/hktaximeter/static/js/2.2f5ef2c2.chunk.js",
+    "static/js/2.2f5ef2c2.chunk.js.map": "/hktaximeter/static/js/2.2f5ef2c2.chunk.js.map",
+    "index.html": "/hktaximeter/index.html",
+    "precache-manifest.095aebf7a5538f4c8d1572c0cf3fef7d.js": "/hktaximeter/precache-manifest.095aebf7a5538f4c8d1572c0cf3fef7d.js",
+    "service-worker.js": "/hktaximeter/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hktaximeter/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2f5ef2c2.chunk.js.LICENSE.txt": "/hktaximeter/static/js/2.2f5ef2c2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hktaximeter/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f61d0c90.js",
+    "static/js/2.2f5ef2c2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.17eedbe7.chunk.js"
+  ]
+}
